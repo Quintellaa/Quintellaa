@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Skills</h1>
-  <table border="0">
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" height="70" alt="css"></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" height="70" alt="html"></td>
